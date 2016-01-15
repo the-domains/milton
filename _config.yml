@@ -1,0 +1,28 @@
+name: Milton
+favicon: null
+layout_spectrum: 0.17206852207891643
+typography_spectrum: 0.18891693907789886
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8872822131961584
+  lightness: 0.10204061027616262
+  saturation: 0.7424970043357462
+  rhythmicContrast: 0.5971132139675319
+purpose: []
