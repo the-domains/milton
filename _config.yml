@@ -1,6 +1,6 @@
 name: Milton
 favicon: null
-layout_spectrum: 0.72005
+layout_spectrum: 0.54935
 typography_spectrum: 0.50593
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8872822131961584
-  lightness: 0.10204061027616262
+    - '#00000a'
+    - '#a5a38e'
+    - '#777662'
+    - '#2a4469'
+    - '#bc565e'
+  brandStrength: 0.6875
+  lightness: 0.375
   saturation: 0.7424970043357462
-  rhythmicContrast: 0.5971132139675319
+  rhythmicContrast: 1
 purpose: []
