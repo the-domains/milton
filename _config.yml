@@ -1,28 +1,40 @@
-name: Milton
 favicon: null
-layout_spectrum: 0.54935
-typography_spectrum: 0.50593
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Milton
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3082437
+  brandStrength: 0.6875
+  lightness: 0.6612903
   brandColors:
     - '#00000a'
     - '#a5a38e'
     - '#777662'
     - '#2a4469'
     - '#bc565e'
-  brandStrength: 0.6875
-  lightness: 0.375
-  saturation: 0.7424970043357462
-  rhythmicContrast: 1
-purpose: []
+  rhythmicContrast: 0.6362007
+typography_spectrum: 0.50593
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.54935
+analytics:
+  twitter: null
+  google: null
+  facebook: null
