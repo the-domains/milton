@@ -1,9 +1,7 @@
-favicon: null
 name: Milton
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9086022
+typography_spectrum: 0.50593
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+title: Patrick Milton
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3082437
-  brandStrength: 0.6875
-  rhythmicContrast: 0.6362007
   brandColors:
     - '#00000a'
     - '#a5a38e'
     - '#777662'
     - '#2a4469'
     - '#bc565e'
+  brandStrength: 0.6875
   lightness: 0.6612903
-typography_spectrum: 0.50593
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.9086022
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.3082437
+  rhythmicContrast: 0.6362007
+purpose: []
